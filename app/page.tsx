@@ -63,7 +63,7 @@ export default function Home() {
                             COMEÇA AQUI.
                         </h1>
                         <p className="text-xl md:text-2xl text-light/80 font-body mb-12 max-w-2xl reveal-left delay-200 border-l-4 border-gold pl-6">
-                            Esqueça as barbearias monótonas. Na Dom Vitom, você garante o melhor estilo da região com cerveja gelada, resenha de primeira e clima de lazer absoluto.
+                            Esqueça as barbearias monótonas. Na Dom Vitom, você garante o melhor estilo da região com resenha de primeira e clima de lazer absoluto.
                         </p>
                         <a href="https://wa.me/5521974705558?text=Fala%20Dom%20Vitom!%20Quero%20agendar%20um%20hor%C3%A1rio." target="_blank" rel="noreferrer" className="inline-block bg-red text-light font-heading text-2xl md:text-3xl uppercase tracking-wider px-12 py-6 shadow-[0_0_40px_rgba(190,30,45,0.4)] hover:bg-gold hover:text-black hover:shadow-[0_0_40px_rgba(233,195,73,0.5)] transition-all duration-300 reveal-left delay-300 mb-16 md:mb-24">
                             AGENDAR MEU HORÁRIO 📱
@@ -94,9 +94,9 @@ export default function Home() {
                     
                     <div className="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-10">
                         <div className="md:col-span-7 bg-black p-10 md:p-16 border-l-8 border-red reveal hover:bg-[#111] hover:shadow-[0_0_40px_rgba(190,30,45,0.2)] transition-all duration-500 relative z-10 hover:z-20">
-                            <div className="text-6xl md:text-7xl mb-8">🍺</div>
-                            <h3 className="text-3xl md:text-4xl font-heading text-light uppercase mb-4">BAR & CERVEJA</h3>
-                            <p className="text-light/70 font-body text-xl leading-relaxed">Sua resenha acompanhada daquela cerveja trincando. O happy hour começa na cadeira do barbeiro. Aqui a sede não tem vez.</p>
+                            <div className="text-6xl md:text-7xl mb-8">☕</div>
+                            <h3 className="text-3xl md:text-4xl font-heading text-light uppercase mb-4">CAFÉ & RESENHA</h3>
+                            <p className="text-light/70 font-body text-xl leading-relaxed">Sua resenha acompanhada daquele café fresco. O momento de relaxar começa na cadeira do barbeiro. Aqui você é sempre bem-vindo.</p>
                         </div>
                         
                         <div className="md:col-span-5 bg-black p-10 md:p-16 border-l-8 border-gold reveal delay-100 hover:bg-[#111] hover:shadow-[0_0_40px_rgba(233,195,73,0.2)] transition-all duration-500 relative z-10 hover:z-20">
@@ -197,7 +197,7 @@ export default function Home() {
                         <div className="reveal-right delay-100">
                             <h2 className="text-4xl md:text-5xl font-heading text-light uppercase mb-8 border-l-8 border-gold pl-6">PAGAMENTO SEM ESTRESSE</h2>
                             <p className="font-body text-xl text-light/70 mb-8 leading-relaxed">
-                                Aceitamos todas as principais bandeiras de cartão e PIX. Facilidade total para você focar apenas no seu estilo e na sua cerveja.
+                                Aceitamos todas as principais bandeiras de cartão e PIX. Facilidade total para você focar apenas no seu estilo.
                             </p>
                             <div className="flex gap-8 text-6xl mb-16">
                                 <span title="Cartão de Crédito/Débito">💳</span> 
